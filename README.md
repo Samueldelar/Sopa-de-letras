@@ -14,27 +14,31 @@
    git clone https://github.com/tu-usuario/sopa-de-letras.git
    cd sopa-de-letras
 2. Asegúrate de tener la siguiente estructura de carpetas:
-sopa-de-letras/
-├── SOPA/
-│   └── sopa.txt
-├── RESPUESTA/
-└── main.py
+Una carpeta principal que contenga el codigo, otra carpeta titulada "SOPA" y otra carpeta vacia titulada "RESPUESTA"
 Crea un archivo llamado sopa.txt dentro de la carpeta SOPA. Este archivo debe tener el siguiente formato:
 
-yaml
-Copiar código
 ABCDE
+
 FGHIJ
+
 KLMNO
+
 ---
+
 PALABRA1
+
 PALABRA2
+
 Primera parte: La sopa de letras como una cuadrícula (una fila por línea).
+
 Separador: Una línea con ---.
+
 Segunda parte: Lista de palabras a buscar.
+
 Ejecuta el programa desde la terminal:
 
 bash
 python main.py
+
 El programa generará un archivo resultados.json en la carpeta RESPUESTA con el reporte de búsqueda.
 
