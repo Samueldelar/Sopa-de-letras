@@ -12,6 +12,7 @@
 1. Clona este repositorio en tu máquina:
   ```bash
 https://github.com/Samueldelar/Sopa-de-letras.git
+  ```
 
 
 2. Asegúrate de tener la siguiente estructura de carpetas:
