@@ -9,8 +9,8 @@
 - **Python 3.8 o superior** debe estar instalado en tu computadora.
 
 ### Pasos para Ejecutar
-1. Clona este repositorio en tu máquina:
-   ```bash https://github.com/Samueldelar/Sopa-de-letras.git
+1. Clona este repositorio en tu máquina:https://github.com/Samueldelar/Sopa-de-letras.git
+  ```bash 
 
    
 2. Asegúrate de tener la siguiente estructura de carpetas:
