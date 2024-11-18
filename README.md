@@ -10,8 +10,8 @@
 
 ### Pasos para Ejecutar
 1. Clona este repositorio en tu máquina:
-   ```bash
-  https://github.com/Samueldelar/Sopa-de-letras.git
+   ```bash https://github.com/Samueldelar/Sopa-de-letras.git
+
    
 2. Asegúrate de tener la siguiente estructura de carpetas:
 Una carpeta principal que contenga el codigo, otra carpeta titulada "SOPA" y otra carpeta vacia titulada "RESPUESTA"
